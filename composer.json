@@ -1,0 +1,17 @@
+{
+    "name": "nahidacm/batch-file-downloader",
+    "description": "PHP CLI based batch file downloader. Download any public file like images, docs or archives",
+    "authors": [
+        {
+            "name": "Mahmudur Rahman",
+            "email": "nahidacm@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "symfony/console": "^3.4"
+    },
+    "autoload": {
+        "psr-4": {"": "src/"}
+    }
+}
