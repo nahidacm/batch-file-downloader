@@ -1,6 +1,10 @@
 # batch-file-downloader
 PHP CLI based batch file downloader.
 
+**Install with Composer**
+
+`composer require nahidacm/batch-file-downloader`
+
 **Image Downloader**
 
 `git clone git@github.com:nahidacm/batch-file-downloader.git`
